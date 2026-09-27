@@ -1,0 +1,6 @@
+{
+  "name": "LinguaFlow - Acoustic AI Language Studio",
+  "description": "Gamified acoustic language learning with speech recognition, real-world conversational scenarios, fluency analytics, and daily social leaderboards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
